@@ -35,7 +35,6 @@ python chess_game.py
 📁 Project Structure
 
 ChessBoard/<br>
-│
 ├── chess_game.py         # Main game script<br>
 ├── images/               # (Optional) PNGs for chess pieces<br>
 ├── game_logs/            # Move history and PGN logs<br>
