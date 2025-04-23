@@ -44,7 +44,8 @@ ChessBoard/<br>
 📹 Video Tutorial
 Want to learn how this was made or how to customize it?
 
-🎥 Watch this Python Chess Tutorial on YouTube (Recommended)
+🎥 Watch this Python Chess Tutorial on YouTube (Recommended): https://www.youtube.com/watch?v=EnYui0e73Rs
+ (Recommended)
 
 
 🤝 Contributions
