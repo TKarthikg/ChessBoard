@@ -2,7 +2,7 @@
 
 Welcome to **Dark Chess**, a custom-built chess game using Python and Pygame. This game supports both **friendly** and **competitive** player-vs-player (PvP) modes, with optional move timing and a visually interactive interface.
 
-![Dark Chess Screenshot](images/screenshot.png) <!-- Add your screenshot in /images folder -->
+![Dark Chess Screenshot]
 
 ---
 
