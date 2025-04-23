@@ -40,3 +40,16 @@ ChessBoard/<br>
 ├── game_logs/            # Move history and PGN logs<br>
 └── README.md             # Project documentation<br>
 
+
+📹 Video Tutorial
+Want to learn how this was made or how to customize it?
+
+🎥 Watch this Python Chess Tutorial on YouTube (Recommended)
+
+
+🤝 Contributions
+Feel free to fork this project and contribute! Suggestions, pull requests, and bug reports are all welcome.
+
+
+📜 License
+This project is open source under the MIT License.
